@@ -26,3 +26,9 @@ Active development - 2025
 ## License
 
 This project is licensed under the MIT License.
+
+## Changes - 2025-10-03
+
+- Adds internationalization support
+- Minor bug fixes and improvements
+- Updated dependencies
