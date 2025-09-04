@@ -26,3 +26,4 @@ Active development - 2025
 ## License
 
 This project is licensed under the MIT License.
+# Version: v1.0.0 - 2025-10-03
